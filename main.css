@@ -1,0 +1,1 @@
+body{margin:0;padding:0;background-color:#eaeae8}.hidden{transform:scaleY(0);height:0;transform-origin:top}.hidden,.visible{transition-property:height,transform;transition-duration:1s;transition-timing-function:ease-out}.visible{transform:scaleY(1);height:100%;transform-origin:top}
